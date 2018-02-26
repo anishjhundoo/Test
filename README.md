@@ -165,11 +165,11 @@
         <nav>
           <a href="home.html"><h1>SWATCH</h1></a>
           <ul>
-            <a href="home.html"><li class="select">Home</li></a>
-            <a href="shop.html"><li class="select">Shop</li></a>
-            <a href="contact.html"><li class="select">Contact Us</li></a>
-            <a href="about.html"><li class="select">About Us</li></a>
-            <a href="login.html"><li class="select">Login | Register</li></a>
+            <a href="#"><li class="select">Home</li></a>
+            <a href="#"><li class="select">Shop</li></a>
+            <a href="#"><li class="select">Contact Us</li></a>
+            <a href="#"><li class="select">About Us</li></a>
+            <a href="#"><li class="select">Login | Register</li></a>
           </ul>
           <ul id="swatches">
             <li><i class="fa fa-shopping-cart" style="padding: 15px 15px;background-color: red;"></i></li>
